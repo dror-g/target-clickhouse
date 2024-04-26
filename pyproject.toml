@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "shaped-target-clickhouse"
+name = "wak-target-clickhouse"
 version = "0.2.4"
 description = "`target-clickhouse` is a Singer target for clickhouse, built with the Meltano Singer SDK."
 readme = "README.md"
